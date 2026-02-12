@@ -1,8 +1,7 @@
-public class master {
-    public static void main(String[] args) {  // Changed 'master' to 'main'
-        System.out.println("Hello, World!");
-        System.out.println("Does this work?");
-    }
-}
+// This is to verify to the examiner this will be what I am using for my milestone 1 submission.
+
+// This is proof of the development of my program.
+
+// This is proof that I am actively committing to GitHub.
 
 
